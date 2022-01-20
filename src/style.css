@@ -1,4 +1,5 @@
 /* styles go here */
+
 .form-field {
   display: block;
 }
@@ -6,10 +7,6 @@
 .marginBottom {
   margin-bottom: 10px;
 }
-
-/* select {
-  overflow-y: auto;
-} скрывает полосу прокрутки в select*/
 
 .marginBottomFieldset {
   margin-bottom: 20px;
