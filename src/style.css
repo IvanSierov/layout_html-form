@@ -3,15 +3,15 @@
   display: block;
 }
 
-.mb {
+.marginBottom {
   margin-bottom: 10px;
 }
 
-select {
+/* select {
   overflow-y: auto;
-}
+} скрывает полосу прокрутки в select*/
 
-fieldset {
+.marginBottomFieldset {
   margin-bottom: 20px;
 }
 
